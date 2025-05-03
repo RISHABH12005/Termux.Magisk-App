@@ -1,5 +1,9 @@
 pkg update && pkg upgrade -y
 
+pkg dist-update -y
+
+pkg autoremove -y
+
 ls
 
 cd..
