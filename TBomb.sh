@@ -1,7 +1,3 @@
-pkg update && pkg upgrade
-
-pkg install git python -y
-
 git clone https://github.com/TheSpeedX/TBomb.git
 
 cd TBomb
