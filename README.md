@@ -19,7 +19,7 @@ Termux is a terminal emulator for Android that provides a full Linux environment
 - Run GitHub tools and scripts  
 
 ### Download Termux  
-Get the Termux from the official [F-Droid](https://f-droid.org/en/packages/com.termux/)
+Get the official [Termux Apk](https://f-droid.org/en/packages/com.termux/)
 
 ---
 
@@ -42,7 +42,7 @@ Magisk is a powerful tool that provides root access to your Android phone withou
 - BusyBox to add Linux command-line tools  
 
 ### Download Magisk  
-Get the official [Magisk App](https://magisk.me/)
+Get the official [Magisk Apk](https://magisk.me/)
 
 ---
 
