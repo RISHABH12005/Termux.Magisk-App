@@ -47,6 +47,6 @@ Get the official [Magisk App](https://magisk.me/)
 ---
 
 ## Disclaimer  
-This guide is for educational purposes only.  
-Rooting can void your device warranty or cause issues if not done properly.  
-Do not use Termux or Magisk for illegal or unethical purposes.
+- This guide is for educational purposes only.  
+- Rooting can void your device warranty or cause issues if not done properly.  
+- Do not use Termux or Magisk for illegal or unethical purposes.
