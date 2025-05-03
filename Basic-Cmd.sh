@@ -1,6 +1,6 @@
 pkg update && pkg upgrade -y
 
-pkg dist-update -y
+pkg dist-upgrade -y
 
 pkg autoremove -y
 
