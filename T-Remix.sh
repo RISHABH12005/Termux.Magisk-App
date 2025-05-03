@@ -6,10 +6,10 @@ git clone https://github.com/Bhaviktutorials/T-Remix
 
 ls
 
-$ cd T-Remix
+cd T-Remix
 
-$ ls
+ls
 
-$ chmod +x *
+chmod +x *
 
-$ bash t-remix.sh
+bash t-remix.sh
