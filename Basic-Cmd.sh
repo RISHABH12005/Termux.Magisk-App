@@ -4,6 +4,10 @@ pkg dist-update -y
 
 pkg autoremove -y
 
+poweroff
+
+reboot
+
 ls
 
 cd..
