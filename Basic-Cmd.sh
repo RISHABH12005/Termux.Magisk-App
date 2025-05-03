@@ -8,6 +8,8 @@ poweroff
 
 reboot
 
+exit
+
 ls
 
 cd..
