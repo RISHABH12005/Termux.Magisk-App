@@ -2,21 +2,21 @@
 # Termux & Magisk App
 
 ## Intro.  
-This guide explains two powerful Android tools — **Termux** and **Magisk App** — in a simple way. These apps allow you to perform advanced tasks like coding, ethical hacking, and rooting your device for more control and customization.
+This guide explains two powerful Android tools *Termux* & *Magisk App* in a simple way. These apps allow you to perform advanced tasks like coding, ethical hacking, rooting your device for more control & customization.
 
 ---
 
 ## Termux
 
 ### What is Termux?  
-Termux is a terminal emulator for Android that provides a full Linux environment on your phone. You can install packages, write code, automate tasks, and use tools for learning cybersecurity.
+Termux is a terminal emulator for Android that provides a full Linux environment on your phone. You can install packages, write code, automate tasks, use tools for learning cybersecurity.
 
 ### Features  
 - Linux command-line access on Android  
-- Supports programming in Python, C, Java, and more  
+- Supports programming in Python, C, Java, more  
 - Access internal storage and edit files  
 - Learn ethical hacking (for education only)  
-- Run GitHub tools and scripts  
+- Run GitHub tools & scripts  
 
 ### Download Termux  
 Get the official [Termux Apk](https://f-droid.org/en/packages/com.termux/)
@@ -26,11 +26,11 @@ Get the official [Termux Apk](https://f-droid.org/en/packages/com.termux/)
 ## Magisk App
 
 ### What is Magisk?  
-Magisk is a powerful tool that provides root access to your Android phone without modifying system files. It allows you to install custom modules, hide root from apps, and pass security checks.
+Magisk is a powerful tool that provides root access to your Android phone without modifying system files. It allows you to install custom modules, hide root from apps, pass security checks.
 
 ### Features  
 - Systemless rooting (safe and reversible)  
-- Hide root from apps like banking and games  
+- Hide root from apps like banking & games  
 - Install modules to enhance your Android experience  
 - Pass SafetyNet checks  
 - OTA-friendly (does not block updates)
