@@ -16,6 +16,6 @@ cd..
 
 cd ~
 
-nano__.txt     # __ Means File Name
+nano __.txt     # __ Means File Name
 
-python3__.py
+python3 __.py
