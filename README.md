@@ -19,7 +19,7 @@ Termux is a terminal emulator for Android that provides a full Linux environment
 - Run GitHub tools & scripts  
 
 ### Download Termux  
-Get the official [Termux Apk](https://f-droid.org/en/packages/com.termux/)
+Get the official [Termux Apk](https://f-droid.org/repo/com.termux_1021.apk)
 
 ---
 
